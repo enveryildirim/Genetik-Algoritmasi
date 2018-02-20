@@ -1,0 +1,7 @@
+6 numaralý problem çözüldü.
+Sonuc:Uygulamda kullanýcýnýn isteðine göre deðiþiyor
+Not:
+-Uygulama olarak çalýþýyor.
+-Grafikte gösterme sýkýntýlar var.
+
+//abdülkadirle beraber yaptýk uygulamalar birbirine çok benziyor

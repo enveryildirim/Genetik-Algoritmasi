@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\bin\Debug\GA.exe.config
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\obj\Debug\GA.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\obj\Debug\GA.Properties.Resources.resources
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\obj\Debug\GA.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\bin\Debug\GA.exe
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\bin\Debug\GA.pdb
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\obj\Debug\GA.exe
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\obj\Debug\GA.pdb
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\GA\GA\obj\Debug\GA.Form1.resources
